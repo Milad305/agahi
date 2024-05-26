@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823750877448",
+    "project_id": "chasbnak-app",
+    "storage_bucket": "chasbnak-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823750877448:android:333a38d1d6bc6d39874cbd",
+        "android_client_info": {
+          "package_name": "ir.chasbnak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NdMeCJKNU4tYplcLPNvIVMmSK8zhX_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
